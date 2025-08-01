@@ -1,0 +1,11 @@
+# Ignore datasets and large model files
+datasets/
+combined_dataset/
+train_val_test_split/
+*.pth
+lungenv/
+flaskenv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
